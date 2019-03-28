@@ -7,7 +7,7 @@ Here are some questions to guide you. Before meeting to discuss your experiment,
 - How do you plan on operationalizing this theoretical question in your experiment? 
 - What has prior work in this domain found? How is this experiment an advance over the prior work?
 - What will a critical reviewer think of your theoretical contribution? What can you do at this point to avoid these criticisms?
-- What is your proposed treatment? What do it manipulate and how does this connected to your bigger theoretical picture? Relatedly, how do you know that it is manipulating only that mechanism and not others?
+- What is your proposed treatment? What does it manipulate and how does this connected to your bigger theoretical picture? Relatedly, how do you know that it is manipulating only that mechanism and not others?
     - The assumption that a treatment works by perturbing one theoretical construct but not any other is the exclusion restriction. You should be prepared to explain how your treatment will be perceived and why you are sure that is the correct interpretation.
 - What is your outcome measuring? How is this connected to your bigger theoretical picture?
 - What will a critical reviewer think of your experimental design? What can you do at this point to avoid these criticisms?
