@@ -13,10 +13,10 @@ Here are some questions to guide you. Before meeting to discuss your experiment,
 - What will a critical reviewer think of your experimental design? What can you do at this point to avoid these criticisms?
 - What will readers learn if your experiment turns out positive, negative, or null? Will the experiment be interesting and important regardless of how it turns out? Write distinct abstracts for how you would publish these results under each scenario.
     - Who is the audience? Why will they care?
-      - What is the problem being addressed by this study?
-      - What is the main result? Here we show...
-      - How does the result add to or contrast with existing knowledge?
-      - How does the result fit into a more general context?
+    - What is the problem being addressed by this study?
+    - What is the main result? Here we show...
+    - How does the result add to or contrast with existing knowledge?
+    - How does the result fit into a more general context?
 - What will your sample be? How do you plan on recruiting them for treatment delivery and outcome measurement?
 - Do you have funding for this plan? If not, have you identified sources of funding?
 - Have you done a power calculation for planning your sample size and budget? How do you justify your assumptions?
