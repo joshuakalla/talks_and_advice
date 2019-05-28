@@ -8,6 +8,11 @@ Here are some questions to guide you. Before meeting to discuss your experiment,
 - What is your outcome measuring? How is this connected to your bigger theoretical picture?
 - What has prior work in this domain found? How is this experiment an advance over the prior work?
 - What will readers learn if your experiment turns out positive, negative, or null? Will the experiment be interesting and important regardless of how it turns out? Write distinct abstracts for how you would publish these results under each scenario.
+  - Who is the audience? Why will they care?
+  - What is the problem being addressed by this study?
+  - What is the main result? Here we show...
+  - How does the result add to or contrast with existing knowledge?
+  - How does the result fit into a more general context?
 - What will your sample be? How do you plan on recruiting them for treatment delivery and outcome measurement?
 - What will a critical reviewer think of your theoretical contribution? What can you do at this point to avoid these criticisms?
 - What will a critical reviewer think of your experimental design? What can you do at this point to avoid these criticisms?
