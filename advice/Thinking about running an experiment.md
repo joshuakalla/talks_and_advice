@@ -20,6 +20,7 @@ Here are some questions to guide you. Before meeting to discuss your experiment,
 - What will your sample be? How do you plan on recruiting them for treatment delivery and outcome measurement?
 - Do you have funding for this plan? If not, have you identified sources of funding?
 - Have you done a power calculation for planning your sample size and budget? How do you justify your assumptions?
+- I expect you to file a pre-analysis plan *with code*. Is there any reason why this won't be possible?
 - Ethics
     - Is your research consistent with APSA's [Principles and Guidance for Human Subjects Research](https://www.apsanet.org/Portals/54/diversity%20and%20inclusion%20prgms/Ethics/Final_Principles%20with%20Guidance%20with%20intro.pdf?ver=2020-04-20-211740-153) and all IRB requirements? Are there potential edge-cases that we should discuss?
     - Is the intervention in the proposed experiment aligned or at odds with your personal politics and values (whatever those may be)? Is this a concern you want to discuss?
@@ -30,3 +31,4 @@ Here are some questions to guide you. Before meeting to discuss your experiment,
 
 - Is a field experiment answering your big picture question feasible? If not, why not? Say more than just a lack of funding.
 - Would this research be more interesting if conducted as a field experiment than a survey experiment? Why or why not?
+- Here is a [https://docs.google.com/document/d/1RONxCvv8wSYWSYd51NgrPJGB1Fy4e8_z82iNbY9W-aY/edit](guide to drafting pre-analysis plans for survey experiments).
