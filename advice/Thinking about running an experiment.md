@@ -31,4 +31,4 @@ Here are some questions to guide you. Before meeting to discuss your experiment,
 
 - Is a field experiment answering your big picture question feasible? If not, why not? Say more than just a lack of funding.
 - Would this research be more interesting if conducted as a field experiment than a survey experiment? Why or why not?
-- Here is a [https://docs.google.com/document/d/1RONxCvv8wSYWSYd51NgrPJGB1Fy4e8_z82iNbY9W-aY/edit](guide to drafting pre-analysis plans for survey experiments).
+- Here is a [guide to drafting pre-analysis plans for survey experiments](https://docs.google.com/document/d/1RONxCvv8wSYWSYd51NgrPJGB1Fy4e8_z82iNbY9W-aY/edit).
