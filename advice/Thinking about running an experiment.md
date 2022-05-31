@@ -20,6 +20,11 @@ Here are some questions to guide you. Before meeting to discuss your experiment,
 - What will your sample be? How do you plan on recruiting them for treatment delivery and outcome measurement?
 - Do you have funding for this plan? If not, have you identified sources of funding?
 - Have you done a power calculation for planning your sample size and budget? How do you justify your assumptions?
+- Ethics
+    - Is your research consistent with APSA's [Principles and Guidance for Human Subjects Research](https://www.apsanet.org/Portals/54/diversity%20and%20inclusion%20prgms/Ethics/Final_Principles%20with%20Guidance%20with%20intro.pdf?ver=2020-04-20-211740-153) and all IRB requirements? Are there potential edge-cases that we should discuss?
+    - Is the intervention in the proposed experiment aligned or at odds with your personal politics and values (whatever those may be)? Is this a concern you want to discuss?
+    - Are your politics and values aligned or at odds with those of other actors in the project: other principal investigators, implementations partners, research staff (e.g., enumerators and research assistants), and project participants? How might this facilitate or create tension in the research process?
+    - How might your politics and values shape the way you analyze, interpret, frame, and share the findings of this research? Are you "betting on" a particular finding? How might you guard against this producing biases?
 
 *[If survey experiment]*
 
