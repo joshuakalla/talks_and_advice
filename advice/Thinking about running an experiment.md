@@ -5,7 +5,7 @@ Here are some questions to guide you. Before meeting to discuss your experiment,
 - What is your “big picture” theoretical question? You should think about this as the first few sentences of an abstract to the paper produced from this research.
     - Sometimes people say their question is “problem driven.” In academic work, a problem is something we cannot explain given existing work, more akin to a puzzle. Ask yourself, what is the puzzle or question we can't answer now, and why is answering it important?
 - How do you plan on operationalizing this theoretical question in your experiment? 
-- What has prior work in this domain found? How is this experiment an advance over the prior work?
+- What has prior work in this domain found? How is this experiment an advance over the prior work? In other words, how will this work move readers' priors?
 - What will a critical reviewer think of your theoretical contribution? What can you do at this point to avoid these criticisms?
 - What is your proposed treatment? What does it manipulate and how does this connect to your bigger theoretical picture? Relatedly, how do you know that it is manipulating only that mechanism and not others?
     - The assumption that a treatment works by perturbing one theoretical construct but not any other is the exclusion restriction. You should be prepared to explain how your treatment will be perceived and why you are sure that is the correct interpretation.
